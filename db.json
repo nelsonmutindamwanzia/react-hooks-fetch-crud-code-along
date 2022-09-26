@@ -31,10 +31,22 @@
       "isInCart": false
     },
     {
-      "id": 6,
+      "name": "Bananas",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Mangoes",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
       "name": "Cookies",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
